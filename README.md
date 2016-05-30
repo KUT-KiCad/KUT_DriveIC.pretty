@@ -1,2 +1,2 @@
-# KRC_DriveIC.pretty
-KiCad Drive IC footprint library
+# KUT_DriveIC.pretty
+KUT KiCad Drive IC footprint library
